@@ -43,7 +43,7 @@ x-acquisition:
   - kind: press
     source: https://techcrunch.com/2016/04/07/dropbox-acquires-clementine-an-enterprise-communication-service/
 x-api-surface: none
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
