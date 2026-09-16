@@ -23,16 +23,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/clementine.png
 name: Clementine
-description: 'Clementine (Clementine Labs) was a New York based enterprise communication
-  startup founded in 2013 and publicly launched in September 2014, offering workplace
-  messaging, chat, and conference calling that let colleagues reach each other without
-  exchanging personal mobile phone numbers. It appears on the Andreessen Horowitz
-  investment list and was acquired by Dropbox in April 2016, after which the Clementine
-  service was shut down and the team folded into Dropbox collaboration efforts. The
-  company operates no public API, developer portal, documentation, or SDKs today: its
-  primary domain, clementine.io, now issues an HTTP 301 redirect to dropbox.com. This
-  profile is retained as a historical, non-operational record in the API Evangelist
-  network.'
+description: 'Clementine (Clementine Labs) was a New York based enterprise communication startup founded
+  in 2013 and publicly launched in September 2014, offering workplace messaging, chat, and conference
+  calling that let colleagues reach each other without exchanging personal mobile phone numbers. It appears
+  on the Andreessen Horowitz investment list and was acquired by Dropbox in April 2016, after which the
+  Clementine service was shut down and the team folded into Dropbox collaboration efforts. The company
+  operates no public API, developer portal, documentation, or SDKs today: its primary domain, clementine.io,
+  now issues an HTTP 301 redirect to dropbox.com. This profile is retained as a historical, non-operational
+  record in the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/clementine/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -40,7 +38,7 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: acquired
+x-status: defunct
 x-acquisition:
   acquirer: Dropbox
   year: 2016
@@ -56,7 +54,7 @@ x-acquisition:
 x-api-surface: none
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Acquired
